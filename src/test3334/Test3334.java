@@ -3,11 +3,19 @@ package test3334;
 public class Test3334 {
 
 	public static void test3334() {
+<<<<<<< HEAD
 		System.out.println("Test3334 erfolgreich gestartet!");
 	}
 	
 	public static void test3334Finish() {
 		System.out.println("Test3334 erfolgreich beendet!");
+=======
+		System.out.println("Test3334 erfolgreich gestartet:)");
+	}
+	
+	public static void test3334Finish() {
+		System.out.println("Test3334 erfolgreich beendet:(");
+>>>>>>> origin/Smiley-Branch
 	}
 	public static void main(String[] args) {
 		for (int i = 0;i<3;i++) {
